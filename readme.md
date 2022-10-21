@@ -1,5 +1,5 @@
 # Guess the number - C
-> A game where you have to guess a random number, written with C
+> A game where you have to guess a random number, written using C
 
 # How to run
 > Compile `main.c` and run the .exe file
